@@ -155,6 +155,7 @@ setparam=setparam
 getparam=getparam
 setvalue=setvalue
 getvalue=getvalue
+cis_cron=cis_cron
 </pre>
 
 ## Задачи (jobs)
@@ -295,7 +296,13 @@ prm3=$($cis_base_dir/core/getvalue prm3)
 
 ## Запуск job по расписанию
 
-<i>TBD</i>...
+Для запуска задачи по расписанию используем команду системы <i>$cis_base_dir/core/$cis_cron --add \<cron_exp\> \<project/job\></i>
+
+Если у задачи есть входные параметры, то при запуске они будут оставлены пустыми.
+
+Для прекращения запуска задачи по расписанию используем команду системы <i>$cis_base_dir/core/$cis_cron --del \<cron_exp\> \<project/job\></i>
+
+Для вывода списка задач запускаемых по расписанию используем команду системы <i>$cis_base_dir/core/$cis_cron --list [mask]</i>
 
 ## Запуск job по ВЕБ-хуку
 
