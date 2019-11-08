@@ -1,2 +1,2 @@
 # cis1-docs
-Main documentations for TomskSoft Continuous Integration System, Version 1
+TomskSoft CIS Version 1.0 Main documentations
