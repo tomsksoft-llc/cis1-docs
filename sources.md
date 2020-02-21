@@ -8,7 +8,7 @@
 
 <tr>
 
-<td>`cis1-docs`</td>
+<td><code>cis1-docs</code></td>
 
 <td>репозитарий с базовой документацией (этот файл находится в этом самом репозитарии)</td>
 
@@ -16,7 +16,7 @@
 
 <tr>
 
-<td>`cis1-core-bash`</td>
+<td><code>cis1-core-bash</code></td>
 
 <td>репозитарий компоненты Ядро, написанном на bash</td>
 
@@ -24,7 +24,7 @@
 
 <tr>
 
-<td>`cis1-webui-native-srv-cpp`</td>
+<td><code>cis1-webui-native-srv-cpp</code></td>
 
 <td>основной репозитарий компоненты WEBUI, написанной на С++</td>
 
@@ -32,7 +32,7 @@
 
 <tr>
 
-<td>`cis1-webui-native-front-vanilla`</td>
+<td><code>cis1-webui-native-front-vanilla</code></td>
 
 <td>часть компоненты WEBUI, написанной на С++, содержит frontend код</td>
 
