@@ -16,9 +16,9 @@
 
 <tr>
 
-<td><a href="https://github.com/tomsksoft-llc/cis1-core-bash"><code>cis1-core-bash</code></a></td>
+<td><a href="https://github.com/tomsksoft-llc/cis1-core-native"><code>cis1-core-native</code></a></td>
 
-<td>репозитарий компоненты Ядро, написанном на bash</td>
+<td>репозитарий компонента Core, написанном на C++</td>
 
 </tr>
 
@@ -26,7 +26,7 @@
 
 <td><a href="https://github.com/tomsksoft-llc/cis1-webui-native-srv-cpp"><code>cis1-webui-native-srv-cpp</code></a></td>
 
-<td>основной репозитарий компоненты WEBUI, написанной на С++</td>
+<td>основной репозитарий компонента WebUI, написанной на С++</td>
 
 </tr>
 
@@ -34,7 +34,7 @@
 
 <td><a href="https://github.com/tomsksoft-llc/cis1-webui-native-front-vanilla"><code>cis1-webui-native-front-vanilla</code></a></td>
 
-<td>часть компоненты WEBUI, написанной на С++, содержит frontend код</td>
+<td>часть компонента WebUI, содержит frontend код</td>
 
 </tr>
 
